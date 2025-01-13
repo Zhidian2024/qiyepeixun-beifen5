@@ -24,7 +24,6 @@ Java ,Mysql,springBoot框架，前后端分离；
 # 管理平台
 
 ![extending-a-theme](/04.png)
-![extending-a-theme](/04.png)
 ![extending-a-theme](/06.png)
 ![extending-a-theme](/07.png)
 ![extending-a-theme](/08.png)
