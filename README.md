@@ -42,7 +42,3 @@ Java ,Mysql,springBoot框架，前后端分离；
 ![extending-a-theme](/lianxi.png)
 
 
-#### 联系我们
-
-![extending-a-theme](/xiaomage.jpg)
-
